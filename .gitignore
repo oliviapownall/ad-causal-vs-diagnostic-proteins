@@ -221,3 +221,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Mac
+.DS_Store
+__MACOSX/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data (never commit)
+*.csv
+*.tsv
+*.tar
+*.gz
+snp_downloads/
